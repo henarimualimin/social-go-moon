@@ -70,7 +70,7 @@ app.frame('/', (c) => {
     intents: [
       // Tombol Claim $SOCIAL langsung mengarah ke halaman compose
       <Button.Link
-        href="https://warpcast.com/~/compose?text=https://warpcast.com/~/compose?text=✌️ $SOCIAL To 1 ✌️$%20Via @0xhen&embeds[]=https://social-go-moon.vercel.app/api"
+        href="https://warpcast.com/~/compose?text=✌️ $SOCIAL To 1 ✌️$%20Via @0xhen&embeds[]=https://social-go-moon.vercel.app/api"
       >
         Cast It
       </Button.Link>,
